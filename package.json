@@ -17,7 +17,7 @@
     "mysql2": "^1.6.4",
     "nodemon": "^1.18.9",
     "password-hash": "^1.2.2",
-    "sequelize": "^4.42.0"
+    "sequelize": "^5.15.1"
   },
   "devDependencies": {},
   "scripts": {
